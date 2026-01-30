@@ -1,0 +1,14 @@
+{
+  "name": "click-crab",
+  "version": "0.1.0",
+  "description": "A lightweight, local-only CLI tool for pinning shell commands and directory paths",
+  "main": "dist/index.js",
+  "bin": {
+    "cc": "./dist/cli.js"
+  },
+  "author": "@0xHashlol",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
